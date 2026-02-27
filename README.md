@@ -1,40 +1,31 @@
-# qa-web-testing-portfolio
-QA Portfolio Project – Manual &amp; Automation Testing on Web Application (SauceDemo). Includes Test Plan, Test Cases, Bug Reports, and Selenium Automation.
-# SauceDemo Test Plan
+# QA Web Testing Portfolio
 
-## Project Information
-- Project Name: SauceDemo Website Testing
-- Version: 1.0
-- Prepared By: Apinya Sriboonrot
-- Date: Feb 2026
+## Project Overview
+This project demonstrates my Manual and Automation Testing skills using SauceDemo web application.
 
-## Objective
-To validate core functionalities of the SauceDemo web application and identify defects before production deployment.
-
-## Scope
-
-### In Scope
-- Login / Logout
-- Product Listing
-- Add to Cart
-- Remove from Cart
-- Checkout
-
-### Out of Scope
-- Payment Integration
-- Security Penetration Testing
-
-## Test Type
+## Testing Scope
 - Functional Testing
 - UI Testing
 - Regression Testing
-- Basic Automation (Login)
+- Automation Testing (Selenium)
 
-## Environment
-- OS: Windows 10
-- Browser: Chrome
-- Device: Desktop
+## Project Structure
 
-## Exit Criteria
-- All test cases executed
-- No critical defects remaining
+- Test-Plan
+- Test-Scenario
+- Test-Case
+- Bug-Report
+- Automation
+- Screenshot
+- Test-Summary
+
+## Tools Used
+- Manual Testing
+- Selenium (Python)
+- Chrome Browser
+- GitHub Documentation
+
+---
+
+## Objective
+To validate core functionalities of SauceDemo and identify defects before production deployment.
